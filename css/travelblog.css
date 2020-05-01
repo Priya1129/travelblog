@@ -7,7 +7,7 @@
   align-items: center;
   justify-content: space-around;
   padding: 20px;
-  font-size: 25px;
+  font-size: 20px;
 }
 .push-left {
   margin-right: 70%;
@@ -57,6 +57,7 @@ h3 {
 }
 img {
   border-radius: 5px 5px 0 0;
+  width: 100%;
 }
 
 footer {

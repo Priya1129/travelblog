@@ -1,14 +1,7 @@
-.page-header {
-  display: flex;
-  flex-direction: row;
-  flex-basis: 50%;
-  background-color: pink;
-  height: 25px;
-  align-items: center;
-  justify-content: left;
-  padding: 20px;
-  font-size: 25px;
-}
+@import "footer.css";
+@import "header.css";
+@import "img.css";
+
 .container {
   display: flex;
   flex-direction: row;
@@ -21,22 +14,4 @@
 .box {
   width: 350px;
   height: 150px;
-}
-
-footer {
-  display: flex;
-  justify-content: center;
-  flex-direction: row;
-  justify-content: space-around;
-  flex-basis: 50%;
-  padding: 5px;
-  height: auto;
-  align-items: center;
-  background-color: grey;
-  color: #fff;
-}
-.socialmedia {
-  width: 20px;
-  height: 20px;
-  background-color: gray;
 }

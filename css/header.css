@@ -1,0 +1,11 @@
+.page-header {
+  display: flex;
+  flex-direction: row;
+  flex-basis: 50%;
+  background-color: pink;
+  height: 25px;
+  align-items: center;
+  justify-content: left;
+  padding: 20px;
+  font-size: 20px;
+}

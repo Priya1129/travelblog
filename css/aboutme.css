@@ -7,7 +7,7 @@
   align-items: center;
   justify-content: left;
   padding: 20px;
-  font-size: 25px;
+  font-size: 20px;
 }
 body {
   background-color: lightblue;
@@ -24,6 +24,9 @@ body {
 .box {
   width: 250px;
   height: 150px;
+}
+img {
+  width: 200%;
 }
 footer {
   display: flex;
